@@ -7,11 +7,11 @@ body {
     flex-direction: column;
     justify-content: center;
     font-size: 30px;
-    background-color: white;
+    background-color: teal;
     width: 100vw;
     height: 100vh;
     max-width: 100%;
-    color: white;
+    color: teal;
 }
 
 #quote-box {
@@ -20,7 +20,7 @@ body {
     max-height: 70vh;
     padding: 1em;
     margin: 40px auto;
-    background-color: rgb(44, 152, 224);
+    background-color: #333;
     border-radius: .1em;
 }
 
@@ -32,18 +32,18 @@ body {
 
 #icon {
     font-size: 1.5em;
-    color: white;
+    color: teal;
     border: 0;
 }
 
 #new-quote {
-    color: rgb(44, 152, 224);
+    color: #333;
     font-size: .5em;
     font-weight: 500;
     padding: 0 1em 0 1em;
     border: 0;
     border-radius: .2em;
-    background-color: white;
+    background-color: teal;
 }
 
 q {
