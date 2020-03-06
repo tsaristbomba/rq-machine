@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rq-machine/static/css/main.b585b9c9.chunk.css",
+    "main.js": "/rq-machine/static/js/main.31bb7eb3.chunk.js",
+    "main.js.map": "/rq-machine/static/js/main.31bb7eb3.chunk.js.map",
+    "runtime-main.js": "/rq-machine/static/js/runtime-main.96bac370.js",
+    "runtime-main.js.map": "/rq-machine/static/js/runtime-main.96bac370.js.map",
+    "static/js/2.2d169a9b.chunk.js": "/rq-machine/static/js/2.2d169a9b.chunk.js",
+    "static/js/2.2d169a9b.chunk.js.map": "/rq-machine/static/js/2.2d169a9b.chunk.js.map",
+    "index.html": "/rq-machine/index.html",
+    "precache-manifest.654267c89f323befc383c3a0c7d678d2.js": "/rq-machine/precache-manifest.654267c89f323befc383c3a0c7d678d2.js",
+    "service-worker.js": "/rq-machine/service-worker.js",
+    "static/css/main.b585b9c9.chunk.css.map": "/rq-machine/static/css/main.b585b9c9.chunk.css.map",
+    "static/js/2.2d169a9b.chunk.js.LICENSE.txt": "/rq-machine/static/js/2.2d169a9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96bac370.js",
+    "static/js/2.2d169a9b.chunk.js",
+    "static/css/main.b585b9c9.chunk.css",
+    "static/js/main.31bb7eb3.chunk.js"
+  ]
+}
